@@ -8,6 +8,9 @@ https://www.cybercoders.com
 https://www.nodeflair.com/jobs?query=&page=1&sort_by=relevant&positions%5B%5D=blockchain_engineer
 https://consensys.net/open-roles/
 https://www.connectone.com.sg/featured-jobs
+https://chainlinklabs.com/jobs
+https://vnjobs.getlinks.com/
+https://blockace.io/
 https://www.jobcase.com/jobs/results?q=blockchain
 https://remotestar-team.freshteam.com/jobs?location=[]&department=[%225000025684%22]&jobType=[%222%22]&title=Blockchain&isRemoteLocation=true
 https://glints.com/opportunities/jobs/explore?keyword=Blockchain&country=SG&searchCity=127215&locationName=Singapore&type=Recent
@@ -18,9 +21,6 @@ https://cryptojobslist.com/blockchain-jobs?sort=recent
 https://web3.career/
 https://cryptocurrencyjobs.co/
 https://angel.co/jobs
-https://chainlinklabs.com/jobs
-https://vnjobs.getlinks.com/
-https://blockace.io/
 https://www.linkedin.com/jobs/
 https://huntd.tech/jobs
 https://www.ycombinator.com/jobs
